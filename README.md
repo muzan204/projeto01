@@ -12,7 +12,7 @@
 
 ## 🌐 Projeto online (Deploy)
 
-- ⚡ Vercel: https://projeto01-mwws2v0ay-belchiorgustavo454-3146s-projects.vercel.app/  
+- ⚡ Vercel: https://calculadora-basc-ktqu9nahm-belchiorgustavo454-3146s-projects.vercel.app/  
 
 ---
 
@@ -59,6 +59,7 @@ A **Calculadora Neon Cyberpunk** é um projeto front-end criado com HTML, CSS e 
 
 
 📁 calculadora-neon/
+
 │
 ├── index.html   → Estrutura da calculadora  
 ├── style.css    → Estilo visual neon/cyberpunk  
