@@ -58,9 +58,7 @@ A **Calculadora Neon Cyberpunk** é um projeto front-end criado com HTML, CSS e 
 ## 🧱 Estrutura do projeto
 
 ```bash
-📁 calculadora-neon/
-
-│
+📁 calculadora-neon/│
 ├── index.html   → Estrutura da calculadora  
 ├── style.css    → Estilo visual neon/cyberpunk  
 └── script.js    → Lógica da calculadora  
