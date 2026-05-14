@@ -25,7 +25,7 @@
 ## 🌐 Projeto online (Deploy)
 
 - 🚀 Netlify: https://SEU-LINK-AQUI.netlify.app  
-- ⚡ Vercel: https://SEU-LINK-AQUI.vercel.app  
+- ⚡ Vercel: https://projeto01-mwws2v0ay-belchiorgustavo454-3146s-projects.vercel.app/  
 
 ---
 
