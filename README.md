@@ -10,21 +10,8 @@
 
 ---
 
-## 📸 Screenshot do projeto
-
-![Screenshot da Calculadora](./assets/screenshot.png)
-
----
-
-## 🎥 GIF demonstrando a calculadora
-
-![Demonstração da Calculadora](./assets/demo.gif)
-
----
-
 ## 🌐 Projeto online (Deploy)
 
-- 🚀 Netlify: https://SEU-LINK-AQUI.netlify.app  
 - ⚡ Vercel: https://projeto01-mwws2v0ay-belchiorgustavo454-3146s-projects.vercel.app/  
 
 ---
@@ -69,6 +56,7 @@ A **Calculadora Neon Cyberpunk** é um projeto front-end criado com HTML, CSS e 
 ---
 
 ## 🧱 Estrutura do projeto
+
 
 📁 calculadora-neon/
 │
